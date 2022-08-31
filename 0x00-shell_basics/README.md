@@ -12,6 +12,7 @@ Script 5-listfilesdigitonly Display current directory contents with long format,
 
 Script 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
 
+Script 7-movethatfile moves a file betty from /tmp/ to /tmp/my_first_directory.
 
 
 
