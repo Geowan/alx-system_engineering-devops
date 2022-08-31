@@ -6,4 +6,4 @@ Script 2-bring_me_home changes the working directory to the user’s home direct
 
 Script 3-listfiles displays current directory contents in a long format
 
- 
+Script 4-listmorefiles displays current directory contents, including hidden files 
