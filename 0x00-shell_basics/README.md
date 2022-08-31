@@ -27,5 +27,5 @@ Script 13-symbolic_link creates a symbolic link to /bin/ls, named __ls__
 
 Script 14-copy_html copies html files and only updates
 
-
+Script 100-lets_move moves all files begining with uppercase letter to /tmp/u
  
