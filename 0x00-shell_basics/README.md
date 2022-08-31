@@ -25,7 +25,7 @@ Script 11-lists lists all files in the current directory and the parent of the w
 Script 12-file_type prints the type of the file named iamafile in /tmp directory 
 Script 13-symbolic_link creates a symbolic link to /bin/ls, named __ls__
 
-
+Script 14-copy_html copies html files and only updates
 
 
  
