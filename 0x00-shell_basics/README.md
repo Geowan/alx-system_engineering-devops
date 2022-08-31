@@ -19,4 +19,6 @@ Script 8-firstdelete deletes file betty is in /tmp/my_first_directory
 Script 9-firstdirdeletion deletes the directory my_first_directory that is in the /tmp directory.
 
 Script 10-back changes the working directory to the previous one.
+
+Script 11-lists lists all files in the current directory and the parent of the working directory and the /boot directory in long format including hidden
  
