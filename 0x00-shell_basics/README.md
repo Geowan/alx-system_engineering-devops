@@ -30,4 +30,6 @@ Script 14-copy_html copies html files and only updates
 Script 100-lets_move moves all files begining with uppercase letter to /tmp/u
 
 Script 101-clean_emacs deletes all files in the current working directory that end with the character ~.
+
+Script 102-tree creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
  
