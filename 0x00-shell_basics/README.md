@@ -35,3 +35,4 @@ Script 102-tree creates the directories welcome/, welcome/to/ and welcome/to/sch
 
 Script 103-commas  lists all the files and directories of the current directory, separated by commas
  
+Script school.mgc detect School data files which always contain the string SCHOOL at offset 0
