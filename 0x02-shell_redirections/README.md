@@ -44,4 +44,7 @@ Script 21-reverse reverse its input
 
 Script 22-users_and_homes displays all users and their home directories, sorted by users Based on the the /etc/passwd file
 
+Script 100-empty_casks finds all empty files and directories in the current directory and all sub-directories.
+
+
 
