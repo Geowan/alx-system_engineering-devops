@@ -2,4 +2,8 @@ Script 0-alias creates an alias with Name: ls and Value: rm *
 
 Script 1-hello_you  prints hello user, where user is the current Linux user.
 
+Script 2-path Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+
+Script 3-paths  counts the number of directories in the PATH.
+
 
