@@ -23,3 +23,5 @@ Script 10-love_exponent_breath displays the result of BREATH to the power LOVE
 Script 11-binary_to_decimal converts a number from base 2 to base 10.
 
 Script 12-combinations  prints all possible combinations of two letters, except oo.
+
+Script 13-print_float prints a number with two decimal places, followed by a new line.
