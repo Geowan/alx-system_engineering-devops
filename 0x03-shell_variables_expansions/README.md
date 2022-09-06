@@ -12,4 +12,6 @@ Script 5-local_variables  lists all local variables and environment variables, a
 
 Script 6-create_local_variable creates a new local variable. Name: BEST and Value: School
 
+Script 7-create_global_variable creates a global variable BEST with value School
+
 
